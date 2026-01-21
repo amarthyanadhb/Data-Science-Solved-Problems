@@ -1,0 +1,16 @@
+# Problem 08 – Logistic Regression
+
+## Problem Statement
+Predict binary outcomes using logistic regression.
+
+## Dataset
+Diabetes dataset.
+
+## Solution Approach
+- EDA and preprocessing
+- Logistic regression model
+- Evaluation using accuracy, precision, recall, F1-score, ROC-AUC
+- Model deployment using Streamlit
+
+## Outcome
+Developed and deployed a classification model.
