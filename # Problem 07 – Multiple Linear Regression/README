@@ -1,0 +1,16 @@
+# Problem 07 – Multiple Linear Regression
+
+## Problem Statement
+Predict a continuous target variable using multiple features.
+
+## Dataset
+Toyota Corolla dataset.
+
+## Solution Approach
+- EDA and preprocessing
+- Linear, Ridge, and Lasso regression
+- Model evaluation using R² and RMSE
+- Coefficient interpretation and theory concepts
+
+## Outcome
+Built and compared regression models and understood feature influence.
