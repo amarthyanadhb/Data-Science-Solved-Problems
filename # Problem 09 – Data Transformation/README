@@ -1,0 +1,16 @@
+# Problem 09 – Data Transformation
+
+## Problem Statement
+Transform raw data into a model-ready format.
+
+## Dataset
+Adult income dataset.
+
+## Solution Approach
+- Missing value handling
+- Encoding categorical variables
+- Feature scaling and transformation
+- Log transformation and binning
+
+## Outcome
+Prepared high-quality features for machine learning models.
