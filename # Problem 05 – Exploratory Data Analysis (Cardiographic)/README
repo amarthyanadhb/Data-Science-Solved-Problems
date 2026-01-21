@@ -1,0 +1,16 @@
+# Problem 05 – Exploratory Data Analysis (Cardiographic)
+
+## Problem Statement
+Perform EDA on cardiographic health data.
+
+## Dataset
+Cardiographic dataset.
+
+## Solution Approach
+- Data loading and inspection
+- Missing value handling
+- Outlier treatment
+- Visualization and correlation analysis
+
+## Outcome
+Prepared a clean and well-understood dataset suitable for modeling.
