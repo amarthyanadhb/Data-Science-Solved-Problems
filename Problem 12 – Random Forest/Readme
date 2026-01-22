@@ -1,0 +1,15 @@
+# Problem 12 – Random Forest
+
+## Problem Statement
+Improve prediction using ensemble learning.
+
+## Dataset
+Classification dataset.
+
+## Solution Approach
+- Random forest model building
+- Feature importance analysis
+- Performance evaluation
+
+## Outcome
+Achieved better accuracy using ensemble techniques.
