@@ -1,0 +1,15 @@
+# Problem 20 – Text Classification using RNN
+
+## Problem Statement
+Classify text using recurrent neural networks.
+
+## Dataset
+Text classification dataset.
+
+## Solution Approach
+- Tokenization and padding
+- RNN/LSTM model
+- Training and evaluation
+
+## Outcome
+Built a deep learning model for text classification.
