@@ -1,0 +1,15 @@
+# Problem 15 – Clustering
+
+## Problem Statement
+Group data into meaningful clusters.
+
+## Dataset
+Unlabeled dataset.
+
+## Solution Approach
+- K-Means clustering
+- Elbow method
+- Cluster visualization
+
+## Outcome
+Identified patterns and segments in data.
