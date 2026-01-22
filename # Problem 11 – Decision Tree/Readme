@@ -1,0 +1,15 @@
+# Problem 11 – Decision Tree
+
+## Problem Statement
+Build a decision tree model for prediction.
+
+## Dataset
+Classification dataset.
+
+## Solution Approach
+- Data preprocessing
+- Decision tree construction
+- Model evaluation and visualization
+
+## Outcome
+Implemented interpretable tree-based models.
