@@ -1,0 +1,15 @@
+# Problem 14 – Principal Component Analysis
+
+## Problem Statement
+Reduce dimensionality using PCA.
+
+## Dataset
+Numerical dataset.
+
+## Solution Approach
+- Feature scaling
+- PCA transformation
+- Explained variance analysis
+
+## Outcome
+Reduced dimensionality while preserving information.
