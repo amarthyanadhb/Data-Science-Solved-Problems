@@ -1,0 +1,17 @@
+# Problem 16 – Recommendation System
+
+## Problem Statement
+Build a content-based recommendation system.
+
+## Dataset
+Anime dataset.
+
+## Solution Approach
+- Data cleaning and EDA
+- TF-IDF feature extraction
+- Cosine similarity
+- Threshold experimentation
+- Interview Q&A
+
+## Outcome
+Implemented a working recommendation system.
