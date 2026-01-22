@@ -1,0 +1,16 @@
+# Problem 17 – Time Series Analysis
+
+## Problem Statement
+Forecast future values using time-series models.
+
+## Dataset
+Exchange rate dataset.
+
+## Solution Approach
+- Date parsing and indexing
+- Stationarity testing
+- ARIMA and Holt-Winters models
+- Model comparison
+
+## Outcome
+Built and evaluated forecasting models.
